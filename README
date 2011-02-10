@@ -1,0 +1,17 @@
+This is a simple "snakes" style game using Flixel and Adobe Flex. This
+was primarily a learning experience for Adobe Flex and I figured what
+better way than to build a simple game.
+
+The source may be useful to others wanting to build games using the
+Flixel library. After using it for the first time I can say that it's
+very easy to do many things however similar to most frameworks you are
+somewhat constrained. Doing things that are not explicitly built in to
+the framework can require some roundabout methods.
+
+The goal is to obtain the highest score possible by guiding the snake
+around the board and eat as many bananas as possible while avoiding
+both the green shrubs and the constantly growing snake body. Movement
+is done through drawing out a path using the mouse. This makes it more
+strategic in that the path can be drawn out far in advance as opposed
+to relying on quick-reflexes when changing directions with the arrow
+keys like traditional snake games.
